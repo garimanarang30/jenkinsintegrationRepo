@@ -59,7 +59,7 @@ for i in range(1, 8):
     for j in range(1, i):
         print("*", end=' ')
     print()
-'''
+    
 # seraching prime number in range
 import self as self
 
@@ -85,7 +85,7 @@ print(nonprime)
 
 
 
-
+'''
 
 
 
@@ -106,3 +106,4 @@ print(nonprime)
 
 
 
+print ("you loose... Num guessed was : ")
