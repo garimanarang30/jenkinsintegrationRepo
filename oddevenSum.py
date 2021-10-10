@@ -106,4 +106,4 @@ print(nonprime)
 
 
 
-print ("you loose... Num guessed was : ")
+print ("you loose... Num guessed was  ")
